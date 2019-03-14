@@ -1,2 +1,2 @@
-# faceitChat
-Responds to chat commands in faceit hubs
+# FaceitChatter
+Watches and responds to specified chat commands in Faceit hubs1
